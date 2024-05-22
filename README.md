@@ -1,16 +1,50 @@
-### Hi there 👋
+### Hi there 👋 I am Nikita Zhdanov
 
-<!--
-**nizhdanov/nizhdanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech stack
 
-Here are some ideas to get you started:
+> General
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- TypeScript
+- React
+- Git
+- Yarn
+
+> Code quality
+
+- Eslint
+- Prettier
+- Stylelint
+
+> Frontend
+
+- Next.js
+
+- Tailwind
+- Shadcn/ui / Radix
+- Mantine
+- Sass
+
+- TanStack Query
+- Apollo Client
+
+- Vite
+- Three.js
+
+> Backend
+
+- NestJS
+
+- MikroORM
+- PrismaORM
+
+- REST API
+
+- PostgresQL
+- MongoDB
+
+> Other
+
+- Figma
+- React Native
+- Docker

@@ -2,7 +2,7 @@
 
 ## Tech stack
 
-> General
+#### General
 
 - JavaScript
 - TypeScript
@@ -10,40 +10,40 @@
 - Git
 - Yarn
 
-> Code quality
+#### Frontend
+
+- Next.js
+  <br/>
+- Tailwind
+- Shadcn/ui / Radix
+- Mantine
+- Sass
+  <br/>
+- TanStack Query
+- Apollo Client
+  <br/>
+- Vite
+- Three.js
+
+#### Backend
+
+- NestJS
+  <br/>
+- MikroORM
+- PrismaORM
+  <br/>
+- REST API
+  <br/>
+- PostgresQL
+- MongoDB
+
+#### Code quality
 
 - Eslint
 - Prettier
 - Stylelint
 
-> Frontend
-
-- Next.js
-
-- Tailwind
-- Shadcn/ui / Radix
-- Mantine
-- Sass
-
-- TanStack Query
-- Apollo Client
-
-- Vite
-- Three.js
-
-> Backend
-
-- NestJS
-
-- MikroORM
-- PrismaORM
-
-- REST API
-
-- PostgresQL
-- MongoDB
-
-> Other
+#### Other
 
 - Figma
 - React Native

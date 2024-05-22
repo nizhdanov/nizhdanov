@@ -13,27 +13,33 @@
 #### Frontend
 
 - Next.js
-  <br/>
-- Tailwind
+  <br />
+  <br />
+- TailwindCSS
 - Shadcn/ui / Radix
 - Mantine
 - Sass
-  <br/>
+  <br />
+  <br />
 - TanStack Query
 - Apollo Client
-  <br/>
+  <br />
+  <br />
 - Vite
 - Three.js
 
 #### Backend
 
 - NestJS
-  <br/>
+  <br />
+  <br />
 - MikroORM
 - PrismaORM
-  <br/>
+  <br />
+  <br />
 - REST API
-  <br/>
+  <br />
+  <br />
 - PostgresQL
 - MongoDB
 

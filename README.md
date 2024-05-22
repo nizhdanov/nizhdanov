@@ -9,30 +9,16 @@
 #### Frontend
 
 - Next.js
-  <br />
-  <br />
 - TailwindCSS, Shadcn/ui, Radix, Mantine, Sass
-  <br />
-  <br />
 - TanStack Query, Apollo Client, Zustand, Jotai
-  <br />
-  <br />
 - Vite
-  <br />
-  <br />
 - Three.js
 
 #### Backend
 
 - NestJS
-  <br />
-  <br />
 - MikroORM, PrismaORM
-  <br />
-  <br />
 - REST API
-  <br />
-  <br />
 - PostgresQL, MongoDB
 
 #### Code quality

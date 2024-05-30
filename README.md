@@ -9,7 +9,7 @@
 #### Frontend
 
 - Next.js
-- TailwindCSS, Shadcn/ui, Radix, Mantine, Sass
+- TailwindCSS, Radix, Mantine, Sass
 - TanStack Query, Apollo Client, Zustand, Jotai
 - Vite
 - Three.js

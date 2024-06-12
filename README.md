@@ -4,14 +4,14 @@
 
 #### General
 
-- JavaScript, TypeScript, React, Git, Yarn
+- JavaScript, TypeScript, Git, Yarn
 
 #### Frontend
 
-- Next.js
-- TailwindCSS, Radix, Mantine, Sass
-- TanStack Query, Apollo Client, Zustand, Jotai
-- Vite
+- React, Next.js
+- TailwindCSS, Radix, Mantine, CSS Modules, Sass
+- TanStack Query, Apollo Client, Zustand, Jotai, Redux Toolkit
+- Vite, Webpack
 - Three.js
 
 #### Backend

@@ -4,7 +4,7 @@
 
 #### General
 
-- JavaScript, TypeScript, Git, Yarn
+- JavaScript, TypeScript, Git
 
 #### Frontend
 

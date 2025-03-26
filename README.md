@@ -11,19 +11,18 @@
 - React, Next.js
 - TailwindCSS, Radix, Mantine, CSS Modules, Sass
 - TanStack Query, Apollo Client, Zustand, Jotai, Redux Toolkit
-- Vite, Webpack
-- Three.js
+- Vite
 
 #### Backend
 
 - NestJS
-- MikroORM, PrismaORM
+- PrismaORM, MikroORM, 
 - REST API
-- PostgresQL, MongoDB
+- PostgreSQL, MongoDB
 
 #### Code quality
 
-- Eslint, Prettier, Stylelint
+- Eslint, Prettier
 
 #### Other
 

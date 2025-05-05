@@ -8,16 +8,15 @@
 
 #### Frontend
 
-- React, Next.js
-- TailwindCSS, Radix, Mantine, CSS Modules, Sass
-- TanStack Query, Apollo Client, Zustand, Jotai, Redux Toolkit
+- React, Next.js, Vue
+- TailwindCSS, Radix, Mantine, Sass
+- TanStack Query, Apollo Client, Zustand, Redux Toolkit
 - Vite
 
 #### Backend
 
 - NestJS
-- PrismaORM, MikroORM, 
-- REST API
+- PrismaORM
 - PostgreSQL, MongoDB
 
 #### Code quality
